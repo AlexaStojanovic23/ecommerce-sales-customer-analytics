@@ -76,12 +76,17 @@ The SQL analysis answers questions such as:
 13. [Monthly Revenue Change](queries/13_monthly_revenue_change.sql)
 14. [Orders Above Customer Average](queries/14_orders_above_customer_average.sql)
 
+## Key Findings
+
+A summary of the main business findings is available in [insights.md](insights.md).
+
 ## Project Structure
 
 ```text
 ecommerce-sales-customer-analytics/
 │
 ├── README.md
+├── insights.md
 ├── schema.sql
 ├── sample_data.sql
 │
